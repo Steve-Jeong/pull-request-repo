@@ -1,4 +1,4 @@
-하나
+하나 one
 이
 three
 four
