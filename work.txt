@@ -1,5 +1,5 @@
-one
-two
+일
+이
 three
 four
 five
